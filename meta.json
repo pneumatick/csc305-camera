@@ -78,10 +78,10 @@
                     "Video Screen.81445afd-4e76-4f0f-b658-12bc8ebf0731"
                 ]
             },
-            "figmaComponents": null,
+            "figmaComponents": {},
             "description": null,
             "icon": null,
-            "projectName": "(A1) Camera App",
+            "projectName": "(A2) Modified Camera App",
             "settings": {
                 "teamId": null,
                 "appName": null,
@@ -115,7 +115,7 @@
                     "ios": {
                         "usageDescriptions": {
                             "NSCameraUsageDescription": "",
-                            "NSMicrophoneUsageDescription": ""
+                            "NSPhotoLibraryUsageDescription": ""
                         }
                     }
                 },
@@ -164,7 +164,7 @@
                     "ios": {
                         "usageDescriptions": {
                             "NSCameraUsageDescription": "",
-                            "NSMicrophoneUsageDescription": ""
+                            "NSPhotoLibraryUsageDescription": ""
                         }
                     }
                 },
